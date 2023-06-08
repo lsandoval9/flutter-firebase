@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5660633849",
+    "project_id": "freecodecamp-mynotes-lsan9",
+    "storage_bucket": "freecodecamp-mynotes-lsan9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5660633849:android:807da4c9c294b27db51028",
+        "android_client_info": {
+          "package_name": "dev.lsandoval.free_code_camp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5660633849-h08eqliq81ja3pi13oglen5nac94soni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrGcibrPObUOkSV8T7huhPXqGd4yp478o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5660633849-h08eqliq81ja3pi13oglen5nac94soni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
